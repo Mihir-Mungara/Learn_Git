@@ -7,3 +7,7 @@ const name1 = 'Mihir Mungara'
 const hobby = 'Cricket, Volleyball'
 
 const hobbies = 'Cricket, Volleyball'
+
+const hobby1 = 'Cricket, Volleyball'
+
+const hobbies1 = 'Cricket, Volleyball'
